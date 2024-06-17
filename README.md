@@ -1,6 +1,6 @@
 # Grappler
 
-Grappler is a challenging Unity game where you control a basketball with a grappling gun. Your goal is to traverse a very hard obstacle course to reach the end and become a pro basketball. The only way to move the basketball is by using the grappling gun and jumping to the hit location.
+Grappler is a challenging game made in Unity where you control a basketball with a grappling gun. Your goal is to traverse a very hard obstacle course to reach the end and become a pro basketball. The only way to move the basketball is by using the grappling gun and jumping to the hit location.
 
 <img src="https://github.com/avivaws/Grappler/assets/88618518/841a972f-b597-42dd-86ea-1c25be389a92" alt="UI" width="600">
 
