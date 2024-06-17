@@ -14,8 +14,6 @@ To play Grappler go to this link:
 - [Controls](#controls)
 - [Features](#features)
 - [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Gameplay
 In Grappler, you need to master the use of your grappling gun to move through a series of challenging obstacles. Precision, timing, and strategy are key to reaching the end of the level.
